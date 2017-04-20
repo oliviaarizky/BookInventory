@@ -1,4 +1,4 @@
-package com.example.oliviarizkyarums.katalogbuku_oliv.activity;
+package com.example.oliviarizkyarums.katalogbuku_oliv.model;
 
 import java.io.Serializable;
 

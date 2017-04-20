@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.example.oliviarizkyarums.katalogbuku_oliv.R;
+import com.example.oliviarizkyarums.katalogbuku_oliv.model.Book;
 
 import butterknife.BindView;
 

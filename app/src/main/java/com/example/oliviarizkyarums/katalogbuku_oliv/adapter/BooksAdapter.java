@@ -9,7 +9,7 @@ import android.widget.Filter;
 import android.widget.TextView;
 
 import com.example.oliviarizkyarums.katalogbuku_oliv.R;
-import com.example.oliviarizkyarums.katalogbuku_oliv.activity.Book;
+import com.example.oliviarizkyarums.katalogbuku_oliv.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;

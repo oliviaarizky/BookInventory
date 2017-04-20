@@ -19,10 +19,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.oliviarizkyarums.katalogbuku_oliv.activity.Book;
 import com.example.oliviarizkyarums.katalogbuku_oliv.activity.BookFormActivity;
 import com.example.oliviarizkyarums.katalogbuku_oliv.adapter.BooksAdapter;
 import com.example.oliviarizkyarums.katalogbuku_oliv.helper.HelperFunction;
+import com.example.oliviarizkyarums.katalogbuku_oliv.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;
